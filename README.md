@@ -44,7 +44,7 @@
 
 <br />
 
-<img align="right" width="400" src="/programmer.gif" alt="Coding gif" />
+<img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
  
 # 💫 About Me:
 ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
