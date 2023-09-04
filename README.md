@@ -9,14 +9,14 @@
 
 <p align="center"> 
   <samp>
-    I am a full stack web developer
+    With a passion for problem-solving, I'm a keen learner of Data Structures and Algorithms, ready to tackle any tech challenge. I am a full stack web developer and also Java enthusiastic
     <br>
   </samp>
 </p>
 
 <p align="center">
  <a href="https://dharmendra9503.netlify.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=website&logoColor=white" alt="Dharmendra" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Dharmendra" />
  </a>
  <a href="https://linkedin.com/in/dharmendra9503" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dharmendra"/>
@@ -30,6 +30,20 @@
 </p>
 <br />
 
+<p align="center">
+ <a href="https://leetcode.com/Dharmendra_9503/" target="blank">
+  <img src="https://img.shields.io/badge/Leetcode-21120c?style=for-the-badge&logo=leetcode&logoColor=white" alt="Dharmendra" />
+ </a>
+ <a href="https://auth.geeksforgeeks.org/user/dharmendra9503" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Dharmendra"/>
+ </a>
+ <a href="https://www.codechef.com/users/dharmendra9503" target="_blank">
+  <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="Dharmendra" />
+ </a>
+</p>
+
+<br />
+
 <img align="right" width="400" src="/programmer.gif" alt="Coding gif" />
  
 # 💫 About Me:
@@ -40,7 +54,6 @@
 
 <br>
 <br>
-
 
 <div>
         <h2> 🚀 Languages | Technologies | Frameworks | Databases | Tools: </h2>
