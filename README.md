@@ -105,3 +105,10 @@
     <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="60%" height="60%">
   </div>
 </div>
+
+<br/>
+
+<div align="center">
+        <h2>Visitors Count</h2>  
+        <p><img align="center" src="https://profile-counter.glitch.me/{dharmendra9503}/count.svg" /></p> 
+</div>
