@@ -46,7 +46,7 @@
 
 <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
  
-# 💫 About Me
+# 💫 About Me 💫
 ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp; Love to solving problems and learning new technology <br/><br/>
 🌱 &emsp; I’m currently learning Node.js and Spring Boot Advance <br/><br/>
@@ -56,7 +56,7 @@
 <br>
 
 <div>
-        <h2> 🚀 Languages | Technologies | Frameworks | Databases | Tools </h2>
+        <h2 align="center"> 🚀 Languages | Technologies | Frameworks | Databases | Tools 🚀 </h2>
         <span> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </span>
         <span> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> </span>
         <span> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> </span>
@@ -82,7 +82,7 @@
 <br/>
 
 <div align="center">
-  <h2>🏆 Github Profile Trophy</h2>
+  <h2>🏆 Github Profile Trophy 🏆</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dharmendra9503&column=7"/>
   </a>
@@ -91,7 +91,7 @@
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 GitHub Stats 📊</h2>
   <a href="https://github.com/dharmendra9503"> 
         <img src="https://github-readme-stats.vercel.app/api?username=dharmendra9503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="34%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra9503&theme=tokyonight" alt="GitHub Streak Stats" width="36%">
@@ -103,15 +103,15 @@
 
 <div align="center">
   <div>
-    <h2>✍️ Random Dev Quote</h2>
+    <h2>✍️ Random Dev Quote ✍️</h2>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" width="60%">
     <br/><br/>
-    <h2>🔝 Top Contributed Repo</h2>
+    <h2>🔝 Top Contributed Repo 🔝</h2>
     <img src="https://github-contributor-stats.vercel.app/api?username=dharmendra9503&limit=5&theme=buddhism&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="60%">
   </div>
   <br/>
   <div>
-    <h2>😂 Random Dev Meme</h2>
+    <h2>😂 Random Dev Meme 😂</h2>
     <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="60%" height="60%">
   </div>
 </div>
