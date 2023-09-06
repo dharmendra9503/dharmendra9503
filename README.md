@@ -105,11 +105,10 @@
   <div>
     <h2>✍️ Random Dev Quote ✍️</h2>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" width="60%">
-    <br/><br/>
+    <br/>
     <h2>🔝 Top Contributed Repo 🔝</h2>
     <img src="https://github-contributor-stats.vercel.app/api?username=dharmendra9503&limit=5&theme=buddhism&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="60%">
   </div>
-  <br/>
   <div>
     <h2>😂 Random Dev Meme 😂</h2>
     <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="60%" height="60%">
@@ -118,7 +117,9 @@
 
 <br/>
 
+<!-- 
 <div align="center">
-        <h2>Visitors Count</h2>  
+        <h2>Visitors Count</h2> 
         <p><img align="center" src="https://profile-counter.glitch.me/{dharmendra9503}/count.svg" /></p> 
 </div>
+-->
