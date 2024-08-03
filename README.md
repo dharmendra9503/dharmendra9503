@@ -49,7 +49,7 @@
 # 💫 About Me 💫
 ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp; Love to solving problems and learning new technology <br/><br/>
-🌱 &emsp; I’m currently learning Node.js and Spring Boot Advance <br/><br/>
+🌱 &emsp; I’m currently learning PHP, Laravel <br/><br/>
 📧 &emsp; Reach me anytime: dharmendraprajapati9503@gmail.com<br/><br/>
 
 <br>
