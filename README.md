@@ -18,7 +18,7 @@ $ cat about.md
 
 <p>💼&nbsp; <strong>Software Engineer</strong> at <strong>Micole</strong>, building <strong><a href="https://micole.net" target="_blank">Micole</a></strong>, <strong><a href="https://educadvisor.com/co" target="_blank">Educadvisor</a></strong> and <strong><a href="https://ischooladvisor.com" target="_blank">International School Advisor</a></strong> - since Aug 2024. Day to day I work across <code>PHP</code> · <code>Laravel</code> · <code>Blade</code> · <code>React</code> · <code>JavaScript</code> · <code>Tailwind CSS</code>.</p>
 
-<p>🚀&nbsp; Outside of work I design, build and run <strong><a href="https://ripero.in" target="_blank">Ripero</a></strong> — my own SaaS product. Ripero is a CRM built for mobile repair shops: it gives shop owners one place to log every repair job, keep customer details on hand, and track each repair's progress from drop-off to pickup — while the customer gets <strong>automatic WhatsApp updates</strong> at every step, so they always know exactly where their device stands.</p>
+<p>🚀&nbsp; Outside of work I design, build and run <strong><a href="https://ripero.in" target="_blank">Ripero</a></strong> - my own SaaS product. Ripero is a CRM built for mobile repair shops: it gives shop owners one place to log every repair job, keep customer details on hand, and track each repair's progress from drop-off to pickup - while the customer gets <strong>automatic WhatsApp updates</strong> at every step, so they always know exactly where their device stands.</p>
 
 <p>🌱&nbsp; Currently sharpening: system design, and making Ripero production-grade end to end.</p>
 
