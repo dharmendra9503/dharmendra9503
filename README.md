@@ -93,7 +93,7 @@ $ ./fetch-stats.sh --since=github
 <br/>
 
 ```bash
-$ echo "thanks for stopping by — let's connect"
+$ echo "Thanks for stopping by — let's connect"
 ```
 
 <table align="center"><tr><td>
