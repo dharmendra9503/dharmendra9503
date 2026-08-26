@@ -98,7 +98,7 @@ $ echo "Thanks for stopping by — let's connect"
 
 <table align="center"><tr><td>
 
-<p align="center">Always up for a conversation about frontend engineering, Laravel, or building a SaaS product end to end.</p>
+<p align="center">Always up for a conversation about full-stack development, software engineering, or building a SaaS product end to end.</p>
 
 <p align="center">
 <a href="mailto:dharmendraprajapati9503@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
