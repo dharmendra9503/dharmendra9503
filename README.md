@@ -60,16 +60,17 @@ $ ls -la ./stacks/
 $ cat ./projects/ripero.md
 ```
 
-<div align="center">
+<table align="center"><tr><td>
 
-### 🛠️ Ripero — CRM for mobile repair shops
-Log bookings, manage customers & staff, and track every repair's progress — with automatic WhatsApp updates for customers along the way
-<br/>
-`React` · `Node.js` · `Express` · `WhatsApp Cloud API` · `AWS`
-<br/>
-<a href="https://ripero.in" target="_blank"><img src="https://img.shields.io/badge/ripero.in-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14" alt="Ripero"/></a>
+<h3 align="center">🛠️ Ripero — CRM for mobile repair shops</h3>
 
-</div>
+<p align="center">Log bookings, manage customers &amp; staff, and track every repair's progress from drop-off to pickup — with <strong>automatic WhatsApp updates</strong> for customers along the way.</p>
+
+<p align="center"><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>WhatsApp Cloud API</code> · <code>AWS</code></p>
+
+<p align="center"><a href="https://ripero.in" target="_blank"><img src="https://img.shields.io/badge/ripero.in-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14" alt="Ripero"/></a></p>
+
+</td></tr></table>
 
 <br/>
 
