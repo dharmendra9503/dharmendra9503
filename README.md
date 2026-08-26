@@ -62,7 +62,7 @@ $ cat ./projects/ripero.md
 
 <table align="center"><tr><td>
 
-<h3 align="center">🛠️ Ripero - CRM for mobile repair shops</h3>
+<h3 align="center">🛠️ Ripero - CRM for Mobile Repair Shops</h3>
 
 <p align="center">Log bookings, manage customers &amp; staff, and track every repair's progress from drop-off to pickup - with <strong>automatic WhatsApp updates</strong> for customers along the way.</p>
 
