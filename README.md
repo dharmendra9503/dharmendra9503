@@ -93,9 +93,16 @@ $ ./fetch-stats.sh --since=github
 <br/>
 
 ```bash
-$ echo "thanks for stopping by — always open to a chat about frontend, Laravel, or building SaaS products"
+$ echo "thanks for stopping by — let's connect"
 ```
 
-<div align="center">
-<sub>reach me: dharmendraprajapati9503@gmail.com</sub>
-</div>
+<table align="center"><tr><td>
+
+<p align="center">Always up for a conversation about frontend engineering, Laravel, or building a SaaS product end to end.</p>
+
+<p align="center">
+<a href="mailto:dharmendraprajapati9503@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://linkedin.com/in/dharmendra9503" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+</p>
+
+</td></tr></table>
