@@ -1,102 +1,108 @@
-[![](https://visitcount.itsvg.in/api?id=dharmendra9503&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
 
-<h1 align="center">
-        <samp>Hi, 
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-          I am <b><a target="_blank" href="https://dharmendra9503.netlify.app">Dharmendra Prajapati</a></b>
-        </samp>
-</h1>
+[![](https://visitcount.itsvg.in/api?id=dharmendra9503&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<p align="center"> 
-  <samp>
-    With a passion for problem-solving, I'm a keen learner of Data Structures and Algorithms, ready to tackle any tech challenge. I am a full stack web developer and also Java enthusiastic
-    <br>
-  </samp>
-</p>
+<a href="https://dharmendra9503.netlify.app" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=640&lines=%24+whoami;%3E+Dharmendra+Prajapati;%24+cat+role.txt;%3E+Software+Engineer+%40+Micole;%3E+Builder+of+Ripero+(SaaS);%24+_" alt="Typing SVG" />
+</a>
 
-<p align="center">
- <a href="https://dharmendra9503.netlify.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Dharmendra" />
- </a>
- <a href="https://linkedin.com/in/dharmendra9503" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dharmendra"/>
- </a>
- <a href="https://instagram.com/ll_dharmendra_lll" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Dharmendra" />
- </a> 
-<a href="https://medium.com/@dharmendraprajapati9503" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-fe4164?style=for-the-badge&logo=medium&logoColor=white" alt="Dharmendra" />
- </a> 
-</p>
-<br />
-
-<p align="center">
- <a href="https://leetcode.com/Dharmendra_9503/" target="blank">
-  <img src="https://img.shields.io/badge/Leetcode-21120c?style=for-the-badge&logo=leetcode&logoColor=white" alt="Dharmendra" />
- </a>
- <a href="https://auth.geeksforgeeks.org/user/dharmendra9503" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Dharmendra"/>
- </a>
- <a href="https://www.codechef.com/users/dharmendra9503" target="_blank">
-  <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="Dharmendra" />
- </a>
-</p>
-
-<br />
-
-<img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
- 
-# 💫 About Me 💫
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp; Love to solving problems and learning new technology <br/><br/>
-🌱 &emsp; I’m currently learning PHP, Laravel <br/><br/>
-📧 &emsp; Reach me anytime: dharmendraprajapati9503@gmail.com<br/><br/>
-
-<br>
-<br>
-
-<div>
-        <h2 align="center"> 🚀 Languages | Technologies | Frameworks | Databases | Tools 🚀 </h2>
-        <span> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </span>
-        <span> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> </span>
-        <span> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> </span>
-        <span> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> </span>
-        <span> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> </span>
-        <span> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> </span>
-        <span> <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"> </span>
-        <span> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> </span>
-        <span> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"> </span>
-        <span> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"> </span>
-        <span> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> </span>
-        <span> <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"> </span>
-        <span> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> </span>
-        <span> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"alt="MongoDB"> </span>
-        <span> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"> </span>
-        <span> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"> </span>
-        <span> <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" alt="GIT"> </span>
-        <span> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </span>
-        <span> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> </span>
-        <span> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"> </span>
 </div>
 
 <br/>
+
+```bash
+$ cat about.md
+```
+
+<table align="center"><tr><td>
+
+<p>💼&nbsp; <strong>Software Engineer</strong> at <strong>Micole</strong>, building <strong><a href="https://micole.net" target="_blank">Micole</a></strong>, <strong><a href="https://educadvisor.com/co" target="_blank">Educadvisor</a></strong> and <strong><a href="https://ischooladvisor.com" target="_blank">International School Advisor</a></strong> - since Aug 2024. Day to day I work across <code>PHP</code> · <code>Laravel</code> · <code>Blade</code> · <code>React</code> · <code>JavaScript</code> · <code>Tailwind CSS</code>.</p>
+
+<p>🚀&nbsp; Outside of work I design, build and run <strong><a href="https://ripero.in" target="_blank">Ripero</a></strong> - my own SaaS product. Ripero is a CRM built for mobile repair shops: it gives shop owners one place to log every repair job, keep customer details on hand, and track each repair's progress from drop-off to pickup - while the customer gets <strong>automatic WhatsApp updates</strong> at every step, so they always know exactly where their device stands.</p>
+
+<p>🌱&nbsp; Currently sharpening: system design, and making Ripero production-grade end to end.</p>
+
+</td></tr></table>
+
+<br/>
+
+```bash
+$ ls -la ./stacks/
+```
 
 <div align="center">
-  <h2>🏆 Github Profile Trophy 🏆</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dharmendra9503&column=7"/>
-  </a>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+
 </div>
 
 <br/>
+
+```bash
+$ cat ./projects/ripero.md
+```
+
+<table align="center"><tr><td>
+
+<h3 align="center">🛠️ Ripero - CRM for Mobile Repair Shops</h3>
+
+<p align="center">Log bookings, manage customers &amp; staff, and track every repair's progress from drop-off to pickup - with <strong>automatic WhatsApp updates</strong> for customers along the way.</p>
+
+<p align="center"><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>WhatsApp Cloud API</code> · <code>AWS</code></p>
+
+<p align="center"><a href="https://ripero.in" target="_blank"><img src="https://img.shields.io/badge/ripero.in-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14" alt="Ripero"/></a></p>
+
+</td></tr></table>
+
+<br/>
+
+```bash
+$ ./fetch-stats.sh --since=github
+```
 
 <div align="center">
-  <h2>📊 GitHub Stats 📊</h2>
-  <a href="https://github.com/dharmendra9503"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=dharmendra9503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="34%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra9503&theme=tokyonight" alt="GitHub Streak Stats" width="36%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra9503&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="26%" >
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharmendra9503&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="32%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra9503&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra9503&theme=chartreuse-dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="Top Languages" width="30%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dharmendra9503&theme=chartreuse-dark&no-frame=true&column=7" alt="Trophies"/>
+
 </div>
 
 <br/>
+
+```bash
+$ echo "Thanks for stopping by — let's connect"
+```
+
+<table align="center"><tr><td>
+
+<p align="center">Always up for a conversation about full-stack development, software engineering, or building a SaaS product end to end.</p>
+
+<p align="center">
+<a href="mailto:dharmendraprajapati9503@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://linkedin.com/in/dharmendra9503" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+</p>
+
+</td></tr></table>
