@@ -14,12 +14,18 @@
 $ cat about.md
 ```
 
-> Software Engineer at **Micole**, working on the **Educadvisor / International School Advisor**
-> platform since Aug 2024 — PHP/Laravel on the backend, Blade + React + Tailwind CSS on the front.
->
-> Outside of work I build and run **Ripero**, my own SaaS product — a CRM for mobile repair shops
-> to manage bookings, staff and customers, with automatic WhatsApp status updates for every
-> booking step.
+<table align="center"><tr><td>
+
+&nbsp;💼&nbsp; **Software Engineer** at **Micole**, building the **Educadvisor** platform (International School Advisor) — since Aug 2024.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Day to day I work across `PHP` · `Laravel` · `Blade` · `React` · `Tailwind CSS`.
+<br/><br/>
+&nbsp;🚀&nbsp; Outside of work I design, build and run **Ripero** — my own SaaS product.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;It's a CRM for mobile repair shops to manage **bookings**, **staff** and **customers**,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;and it sends customers **automatic WhatsApp updates** at every step of their repair.
+<br/><br/>
+&nbsp;🌱&nbsp; Currently sharpening: system design, and making Ripero production-grade end to end.
+
+</td></tr></table>
 
 <br/>
 
