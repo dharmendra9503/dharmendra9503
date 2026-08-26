@@ -16,12 +16,14 @@ $ cat about.md
 
 <table align="center"><tr><td>
 
-&nbsp;💼&nbsp; **Software Engineer** at **Micole**, building the **Educadvisor** platform (International School Advisor) — since Aug 2024.<br/>
+&nbsp;💼&nbsp; **Software Engineer** at **Micole**, building **Micole**, **Educadvisor** and **International School Advisor** — since Aug 2024.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Day to day I work across `PHP` · `Laravel` · `Blade` · `React` · `Tailwind CSS`.
 <br/><br/>
 &nbsp;🚀&nbsp; Outside of work I design, build and run **Ripero** — my own SaaS product.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;It's a CRM for mobile repair shops to manage **bookings**, **staff** and **customers**,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;and it sends customers **automatic WhatsApp updates** at every step of their repair.
+&nbsp;&nbsp;&nbsp;&nbsp;Ripero is a CRM built for mobile repair shops. It gives shop owners one place to log every<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;repair job, keep customer details on hand, and track each repair's progress from drop-off<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;to pickup — while the customer gets **automatic WhatsApp updates** at every step, so they<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;always know exactly where their device stands.
 <br/><br/>
 &nbsp;🌱&nbsp; Currently sharpening: system design, and making Ripero production-grade end to end.
 
@@ -68,7 +70,7 @@ $ cat ./projects/ripero.md
 <div align="center">
 
 ### 🛠️ Ripero — CRM for mobile repair shops
-Bookings · Staff management · Customer records · Automated WhatsApp updates on every booking step
+Log bookings, manage customers & staff, and track every repair's progress — with automatic WhatsApp updates for customers along the way
 <br/>
 `React` · `Node.js` · `Express` · `WhatsApp Cloud API` · `AWS`
 <br/>
