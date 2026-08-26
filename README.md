@@ -75,27 +75,6 @@ $ cat ./projects/ripero.md
 <br/>
 
 ```bash
-$ cat ./links.sh && ./links.sh
-```
-
-<div align="center">
-
-<a href="https://dharmendra9503.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/dharmendra9503" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
-<a href="https://medium.com/@dharmendraprajapati9503" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://instagram.com/ll_dharmendra_lll" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-
-<br/>
-
-<a href="https://leetcode.com/Dharmendra_9503/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
-<a href="https://auth.geeksforgeeks.org/user/dharmendra9503" target="_blank"><img src="https://img.shields.io/badge/GeeksForGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksForGeeks"/></a>
-<a href="https://www.codechef.com/users/dharmendra9503" target="_blank"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=5B4638" alt="CodeChef"/></a>
-
-</div>
-
-<br/>
-
-```bash
 $ ./fetch-stats.sh --since=github
 ```
 
