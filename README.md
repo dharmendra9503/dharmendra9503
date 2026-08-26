@@ -16,16 +16,11 @@ $ cat about.md
 
 <table align="center"><tr><td>
 
-&nbsp;💼&nbsp; **Software Engineer** at **Micole**, building **Micole**, **Educadvisor** and **International School Advisor** — since Aug 2024.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Day to day I work across `PHP` · `Laravel` · `Blade` · `React` · `Tailwind CSS`.
-<br/><br/>
-&nbsp;🚀&nbsp; Outside of work I design, build and run **Ripero** — my own SaaS product.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Ripero is a CRM built for mobile repair shops. It gives shop owners one place to log every<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;repair job, keep customer details on hand, and track each repair's progress from drop-off<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;to pickup — while the customer gets **automatic WhatsApp updates** at every step, so they<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;always know exactly where their device stands.
-<br/><br/>
-&nbsp;🌱&nbsp; Currently sharpening: system design, and making Ripero production-grade end to end.
+<p>💼&nbsp; <strong>Software Engineer</strong> at <strong>Micole</strong>, building <strong>Micole</strong>, <strong>Educadvisor</strong> and <strong>International School Advisor</strong> — since Aug 2024. Day to day I work across <code>PHP</code> · <code>Laravel</code> · <code>Blade</code> · <code>React</code> · <code>Tailwind CSS</code>.</p>
+
+<p>🚀&nbsp; Outside of work I design, build and run <strong>Ripero</strong> — my own SaaS product. Ripero is a CRM built for mobile repair shops: it gives shop owners one place to log every repair job, keep customer details on hand, and track each repair's progress from drop-off to pickup — while the customer gets <strong>automatic WhatsApp updates</strong> at every step, so they always know exactly where their device stands.</p>
+
+<p>🌱&nbsp; Currently sharpening: system design, and making Ripero production-grade end to end.</p>
 
 </td></tr></table>
 
