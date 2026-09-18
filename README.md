@@ -74,23 +74,6 @@ $ cat ./projects/ripero.md
 
 <br/>
 
-```bash
-$ ./fetch-stats.sh --since=github
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharmendra9503&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="32%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra9503&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="32%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra9503&theme=chartreuse-dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="Top Languages" width="30%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dharmendra9503&theme=chartreuse-dark&no-frame=true&column=7" alt="Trophies"/>
-
-</div>
-
-<br/>
 
 ```bash
 $ echo "Thanks for stopping by — let's connect"
