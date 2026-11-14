@@ -20,7 +20,7 @@ $ cat about.md
 
 <ul>
 <li>Full-stack work on core features across <strong><a href="https://micole.net" target="_blank">Micole</a></strong>, <strong><a href="https://educadvisor.com/co" target="_blank">Educadvisor</a></strong> and <strong><a href="https://ischooladvisor.com" target="_blank">International School Advisor</a></strong></li>
-<li>Laravel APIs, React admin dashboards, and Stripe, SendGrid &amp; Google Maps integrations</li>
+<li>Laravel APIs, and Stripe, SendGrid &amp; Google Maps integrations</li>
 <li>Performance &amp; SEO: micole.net PageSpeed <strong>58 → 90+</strong></li>
 <li>Built modules end to end on my own, such as <strong>EduPulse</strong> (AI-moderated reviews) and the blog system</li>
 <li>Stack: <code>PHP</code> · <code>Laravel</code> · <code>Blade</code> · <code>React</code> · <code>JavaScript</code> · <code>Tailwind CSS</code> · <code>MySQL</code> · <code>Docker</code></li>
